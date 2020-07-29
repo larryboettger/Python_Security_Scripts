@@ -25,8 +25,7 @@ https://hackersonlineclub.com/python-tools/ - Python tools
 
 https://github.com/ITI/ICS-Security-Tools - Tools, tips, tricks, and more for exploring ICS Security.
 
-https://github.com/sans-blue-team/freq.py - Freq tool by Mark Baggett for detecting randomness using NLP techniques rather than pure entropy calculations. 
-Some usage resources:
+https://github.com/sans-blue-team/freq.py - Freq tool by Mark Baggett for detecting randomness using NLP techniques rather than pure entropy calculations. Some usage resources:
 https://wiki.sans.blue/Tools/pdfs/freq.py.pdf - Freq Abstract
 https://isc.sans.edu/forums/diary/freqpy+super+powers/19903/ - SANS blog for examples of how Freq is used
 http://shadowtrackers.net/blog/get-your-freq-on-in-splunk - How Freq is used with Splunk
